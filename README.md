@@ -3,7 +3,7 @@
 ## Build your own &lt;insert-technology-here&gt;
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
-
+Pour l'automatique après : on ajoutera un fichier GitHub Actions pour que chaque git push main déploie tout seul. Je te le génère si tu veux.
 > *What I cannot create, I do not understand — Richard Feynman.*
 
 It's a great way to learn.
